@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="40px" height="33px" viewBox="0 0 40 33" xml:space="preserve">
+
+<g transform="rotate(-30)">
+<rect width="30" height="19" x="-5" y="15" fill="red"></rect>
+<text style="fill:#fff;font-size:13px;" x="-3" y="28">已阅</text>
+</g>
+
+</svg>
